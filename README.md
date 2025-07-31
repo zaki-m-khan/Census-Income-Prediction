@@ -12,7 +12,7 @@
 
 ## 🧠 Project Summary
 
-This project uses 32,000+ anonymized U.S. Census records to build a machine learning model that predicts whether an individual earns more than $50K annually. The goal was to evaluate and compare different classification algorithms and tune them to achieve strong performance metrics—while understanding the balance between underfitting and overfitting.
+This project uses 32,000+ anonymized U.S. Census records to build a machine learning model that predicts whether an individual earns more than $50K annually. The goal was to evaluate and compare different classification algorithms and tune them to achieve strong performance metrics while understanding the balance between underfitting and overfitting.
 
 ---
 
